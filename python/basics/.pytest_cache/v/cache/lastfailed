@@ -1,0 +1,5 @@
+{
+  "p2.py::test_fix": true,
+  "p3.py::test_mytest": true,
+  "two_test.py::TestClass::()::test_two": true
+}
